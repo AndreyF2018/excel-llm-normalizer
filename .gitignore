@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+.env
+*.env
+.venv/
+venv/
+ENV/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
